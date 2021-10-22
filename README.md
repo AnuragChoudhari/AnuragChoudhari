@@ -3,12 +3,12 @@
 
 ---
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?&user=Nishant-Bhosale"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?&user=AnuragChoudhari"/>
 </div>
  ---
  
-👨‍🎓I am Nishant Bhosale, currently embarking on my engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune.<br/>
-💻I am a **full-stack web developer**.<br/>
+👨‍🎓I am Anurag Choudhari, currently embarking on my engineering journey from Karmveer Bhaurao Patil College Of Engineering, Satara.<br/>
+💻I am a **Web Developer**.<br/>
 I love❤ to make **exciting projects**. <br/>
 I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
 I also love **python🐍, datascience** and machine-learning/artificial-intelligence.<br/>
