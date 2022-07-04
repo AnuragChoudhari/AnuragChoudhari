@@ -11,7 +11,6 @@
 💻I am a **Web Developer**.<br/>
 I love❤ to make **exciting projects**. <br/>
 I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
-I also love **python🐍, datascience** and machine-learning/artificial-intelligence.<br/>
 
 <h1>Technical Skills 🛠</h1>
 
@@ -47,12 +46,9 @@ I also love **python🐍, datascience** and machine-learning/artificial-intellig
 </a>
 </div>
 
-<!-- ### Recent Projects 👨‍💻
 
 
-<div align="center">
-<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
-</div>
+
 
 <div align="center">
 <img src="https://img.shields.io/github/followers/AnuragChoudhari.svg?style=social&label=Follow"></img>
@@ -60,6 +56,5 @@ I also love **python🐍, datascience** and machine-learning/artificial-intellig
 <img src="https://gpvc.arturio.dev/AnuragChoudhari"></img>
 </div>
 
----
 
 Leave a ⭐ from [here](https://github.com/AnuragChoudhari/AnuragChoudhari) if you like 😁
