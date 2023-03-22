@@ -39,7 +39,7 @@ I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typ
   
 </p>
 
-- 🔭 I’m currently working on a fullstack app. 
+- I'm currently mastering full stack web development and UI/UX designing. 
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=AnuragChoudhari&show_icons=true&theme=cobalt"></img>
