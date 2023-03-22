@@ -7,10 +7,10 @@
 </div>
  ---
  
-👨‍🎓I am Anurag Choudhari, currently embarking on my engineering journey from Karmveer Bhaurao Patil College Of Engineering, Satara.<br/>
-💻I am a **Web Developer**.<br/>
-I love❤ to make **exciting projects**. <br/>
-I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
+I am Anurag Choudhari, currently embarking on my engineering journey from Karmveer Bhaurao Patil College Of Engineering, Satara.<br/>
+I am a **Web Developer**.<br/>
+I love ❤ to make **exciting projects**. <br/>
+I really enjoy learning 🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
 
 <h1>Technical Skills 🛠</h1>
 
