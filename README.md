@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a target="_blank" href="https://acrxport1.netlify.app/">Anurag Choudhari</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
+<h1 align="left">Hi there, I'm <a target="_blank" href="https://acrxport1.netlify.app/">Anurag Choudhari</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
 <h1 align="center">I am a Web Developer</h1>
 
 ---
