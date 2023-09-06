@@ -7,10 +7,7 @@
 </div>
  ---
  
-I am Anurag Choudhari, currently embarking on my engineering journey from Karmveer Bhaurao Patil College Of Engineering, Satara.<br/>
-I am a **Web Developer**.<br/>
-I love ❤ to make **exciting projects**. <br/>
-I really enjoy learning 🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
+Hello everyone! Hello, I'm Anurag Choudhari. I am a full-stack website developer, UI/UX designer, and visual artist. I'm passionate about creating beautiful and powerful experiences that bring together design and technology. I'm a creative thinker and problem solver with a keen eye for detail and a drive to learn new technologies and techniques. I'm a lifelong learner who loves exploring the boundaries of what's possible. I'm excited to put my skills and passion to work to help create amazing products for the world!
 
 <h1>Technical Skills 🛠</h1>
 
