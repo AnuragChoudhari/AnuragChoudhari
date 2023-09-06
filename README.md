@@ -37,7 +37,7 @@
   
 </p>
 
-- I'm currently mastering full stack web development and UI/UX designing. 
+- I'm currently mastering full-stack web development and UI/UX designing. 
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=AnuragChoudhari&show_icons=true&theme=cobalt"></img>
